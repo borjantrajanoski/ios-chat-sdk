@@ -48,4 +48,3 @@
 #import "XMPPMessage+XEP_0184.h"
 #import "NSXMLElement+XEP_0335.h"
 
-#import "XMPPPubSub.h"
